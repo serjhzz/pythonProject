@@ -8,6 +8,4 @@ def commit(text):
 
 if __name__ == '__main__':
     print_hi('это мой проект')
-    commit('коммит от Оли')
-
-
+    commit('Коммит от Оли')
